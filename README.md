@@ -5,6 +5,6 @@ We randomized values in browser fingerprint indentifers to verify our hypothesis
 
 experiment_Init.py is a python script to train personas (through browsing websites), and collect advertisements.
 
-weblist.json contains websites will be visited to train personas. testlist.json contains websites will be used to collect advertisements.
+weblist.json contains websites were visited to train personas. testlist.json contains websites were used to collect advertisements.
 
-Spoof folder includes files had been revised in google chrome to prevent stateless tracking. Geolocation, user agent, screen resolution, hardware concurrency, and device memory are browser fingerprint indentifers we focused.
+Spoof folder includes files had been revised in google chrome to prevent stateless tracking. Geolocation, user agent, screen resolution, hardware concurrency, and device memory were browser fingerprint indentifers we focused on.
