@@ -3,7 +3,7 @@ This is a repositary for a Law & Privay course project. This project is for the 
 
 We randomized values in browser fingerprint indentifers to verify our hypothesis.
 
-experiment_Init.py is a python script to train personas (through browsing websites), and collecting advertisements.
+experiment_Init.py is a python script to train personas (through browsing websites), and collect advertisements.
 
 weblist.json contains websites will be visited to train personas. testlist.json contains websites will be used to collect advertisements.
 
