@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "privacyandlaw",
+  "private_key_id": "e6d088e7af21400ee8f10c175a0703c9c0f7b6fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu2/IBzmzxJ8BI\ncwrIyYYcr8OX8aKpAt4VZBq8DQaxLFiWz9S1eG2DTWRkPY1ESqDB0QeiTSpfv1Pq\nGOkZOJEPNY+b41jtHzkNojolNKuERn4yZT+szWvBVaqt4fHOxX02ODj5tRtF/ahR\nWf3XdK/oJI3szBSO0u9tJ9x6OCua9QGdjIAAZhr2CslUTUikt70QhKxcs75n/+UF\ndENXqhz9CslmRxG8QI+t0g2wQ0N5ySaY4ov5ZG9QiZqlQdvFqCiJpZasckso3zSx\n1m3cFlF9xFPrTFkjPAXeGPA+fBml61P353UDRcZv4WRtJlo5CG3I6bMnFI2DXpSX\n0boa71OpAgMBAAECggEAGz8/pzi82253ynJOuw9Cps6xT53CByG2FybkTurytiyf\nA0+6/qoXhS8hQR4hmK4jqFVDohlHIeivkUS0xzl8H8lsqXxphiLoN4UmGAJskEM8\ndUA3W1xzzt+5UGNq/sQ2/iS6+sIrT/fg612hWJpLXNpGrqBLEHRdsFMr9R7dQJsX\nSpftY4k6WcMWNl4eJkArAfx3XhnmfCWYLbqeuDbt4sU2Eu+6PRTfqrNR5nTfvgr+\nDUMT8QcspwDVDpkRpBDAEkb19tA+kskd9MJLSMS1calZhGEfQjFCLaqkaxnaEDRN\nT9OpXIg3XWNal55YGJEH+5thRCO4Dd+bgRoTipUAnwKBgQDgVNcVGi0vJrAwP3e6\nGUcKX1VzMWxKKVUOvgkl7c8pDsY9PH7dnfBjnIAPbvcOHaFfgfQH9XBuNyCXczNH\ntYWWGBkd4to63KGdG8zyp0tV2R8bB/CwfX1rQtHU+GyEcBj0WfJBydmaGV91b9YO\nLPw7Mbfj3B+Poh2zYZUCUahojwKBgQDHizehWjbAW9mPdNQbSwUKZLCP1hYxaofI\nmsRET5SEaP2WczHkAWPccfmZtDptC/gUOek5ssNM/RRUr3lO7yxVKNzjd2cjPpC5\nfEkpX7fUbFF7V5mE8Ul1p2CshU4gvxcEnL4f9oOEtXbf9Bgn4EAbuqtfW+Dcf9Wo\nc81w6AJsRwKBgGfy6Dc/CfDvXHT+89uoGuMTieT24db7kA5kwJhyuauszO9TOPY4\nWUvPGQgNwy0nTb+T2CBX+uEXamLDXt+7nUsPn5PZqoXb9od2emF2Y9JD6cX8x+sA\nOz2YmOK2upIj32xawYb6oXpmh3VDfUzUS4yiXTOYrIdB98FHVmTcsczBAoGAZQZa\n19nwtlrKPxMK//ZvSt/HdEsTWVlx/WI908fmjVMKcE1KCQGbKVSa5fKVUfgpVTQs\nnAWhUy0eSfG9HPWCIGtbyd393Z4jb4U5FTVcwLNGXYfwNZpjcqmXDEFBWNrmMHOa\n3lvUIjAtSx0tzaJ/UoqjkNfXdEtURMC8VllgQKkCgYEA2dbaF9JvD0L8gjt3Zccy\nlbYR0utxU6rkHuYcs/D/+9RXQFvbHLpzWtTw21TjYKbHRJDtJkXosmGei0EvBqff\nEIhJDs66AZybH7miS/vhRiz9SlAubNYoGZx5X2XYAHFcqUJexLK/llAyosJkkSEV\nRf2ns7isbEjbZvXV1yER6Qo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ads-analyze@privacyandlaw.iam.gserviceaccount.com",
+  "client_id": "114918919752147140313",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ads-analyze%40privacyandlaw.iam.gserviceaccount.com"
+}
